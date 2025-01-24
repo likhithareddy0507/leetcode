@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/likhithareddy0507/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/likhithareddy0507/leetcode/tree/master/0009-palindrome-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/likhithareddy0507/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/likhithareddy0507/leetcode/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
