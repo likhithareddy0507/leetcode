@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/likhithareddy0507/leetcode/tree/master/0020-valid-parentheses) |
+| [0768-partition-labels](https://github.com/likhithareddy0507/leetcode/tree/master/0768-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/likhithareddy0507/leetcode/tree/master/0768-partition-labels) |
 | [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/likhithareddy0507/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/likhithareddy0507/leetcode/tree/master/0768-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/likhithareddy0507/leetcode/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
