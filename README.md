@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/likhithareddy0507/leetcode/tree/master/1179-game-play-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/likhithareddy0507/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
