@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0792-binary-search](https://github.com/likhithareddy0507/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0948-sort-an-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/likhithareddy0507/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/likhithareddy0507/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/likhithareddy0507/leetcode/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/likhithareddy0507/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
