@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/likhithareddy0507/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/likhithareddy0507/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
