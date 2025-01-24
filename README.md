@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/likhithareddy0507/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/likhithareddy0507/leetcode/tree/master/0009-palindrome-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/likhithareddy0507/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy0507/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/likhithareddy0507/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/likhithareddy0507/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2836-neither-minimum-nor-maximum](https://github.com/likhithareddy0507/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/likhithareddy0507/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/likhithareddy0507/leetcode/tree/master/0768-partition-labels) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/likhithareddy0507/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
